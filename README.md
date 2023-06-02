@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rani Dwita</h1>
-- 📫 How to reach me **ranidwita31@gmail.com**
+
+🔭 I'm a student at SMKN 4 Malang
+👯 I am also part of the intern Klik Kanan Group Indonesia
+🌱 I’m learning about UI/UX Design and Programming
+📫 How to reach me ranidwita31@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
